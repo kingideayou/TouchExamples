@@ -1,0 +1,2 @@
+/Users/gongsh001/Desktop/PDF_源码_custom-touch-examples/custom-touch-examples/TouchExamples/build/intermediates/classes/debug
+/Users/gongsh001/Desktop/PDF_源码_custom-touch-examples/custom-touch-examples/TouchExamples/build/intermediates/pre-dexed/debug/support-v4-19.0.0-ae317f5fa465efee3cd326659c50c31ef02059ad.jar

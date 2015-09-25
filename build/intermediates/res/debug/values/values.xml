@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/gongsh001/Desktop/PDF_源码_custom-touch-examples/custom-touch-examples/TouchExamples/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="header_height">160dp</dimen>
+    <dimen name="pan_content_height">720dp</dimen>
+    <dimen name="pan_content_width">1280dp</dimen>
+    <!-- From: file:/Users/gongsh001/Desktop/PDF_源码_custom-touch-examples/custom-touch-examples/TouchExamples/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar">
+
+    </style>
+</resources>
